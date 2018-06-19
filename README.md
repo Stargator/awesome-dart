@@ -38,7 +38,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications
 * [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
 * [uix](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
-* [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
+* [MDL/Dart](https://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 
 
@@ -58,7 +58,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
+* [StageXL](https://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
@@ -136,14 +136,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
-* [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
+* [Crossdart](https://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 
 ## Tutorials
 
-* [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
+* [Hello Dart](https://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
@@ -153,7 +153,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Dartlang SubReddit](https://www.reddit.com/r/dartlang/)
 * [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
-* [Stack Overflow](http://stackoverflow.com/tags/dart)
+* [Stack Overflow](https://stackoverflow.com/tags/dart)
 * [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
 
 ## IDEs, Editors, and Plugins
@@ -165,7 +165,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Dart support for Visual Studio Code.
-* [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
+* [Module Linker](https://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
 
 ## Everything Else
 
@@ -173,4 +173,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
